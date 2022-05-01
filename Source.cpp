@@ -1,16 +1,25 @@
-/*Ali Shehzad Malik
+/*
+Ali Shehzad Malik
+
 Task 1
+
 Overload the following operators in an Integer Class having data members left and right.
+
 1. / operator
 2. ^ operator
+
 Task 2
+
 Overload the following operators using the Box class. *= operator
+
 1. != operator
 2. >> operator
 3. << operator
 4. = (assignment operator)
 5. Copy constructor
+
 Make sure you implement dynamic memory allocation in your program.
+
 */
 
 
